@@ -1,6 +1,6 @@
 # ✈️ Flight Booking System
 
-A text-based Flight Booking System developed in C that allows users to register, log in, search for flights, book seats, manage reservations, and process payments through an interactive console interface. The project also includes an administrator panel for managing flights, bookings, and user accounts. :contentReference[oaicite:0]{index=0}
+A text-based Flight Booking System developed in C that allows users to register, log in, search for flights, book seats, manage reservations, and process payments through an interactive console interface. The project also includes an administrator panel for managing flights, bookings, and user accounts. 
 
 ---
 
@@ -8,7 +8,7 @@ A text-based Flight Booking System developed in C that allows users to register,
 
 The Flight Booking System is designed to simplify travel planning through a command-line interface. Users can easily browse available flights, reserve seats, cancel bookings, and manage their accounts. Administrators have complete control over flight listings, booking records, and system maintenance.
 
-The project was developed by **BitPair Alliance** as the final project for the College of Computer Studies. :contentReference[oaicite:1]{index=1}
+The project was developed by **BitPair Alliance** as the final project for the College of Computer Studies. 
 
 ---
 
